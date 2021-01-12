@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
 using Newtonsoft.Json;
 
+// this is a test update
+
 namespace JanAzureFunctionOne
 {
     public static class JanAzureFunctionOne
